@@ -1,0 +1,2 @@
+# GenAi-pracs
+Practical GenAI
